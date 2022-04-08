@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a95a2c8b-0675-4518-a9df-ae6847dd38e1": {
+      "ProjectGuid": "a95a2c8b-0675-4518-a9df-ae6847dd38e1",
+      "DisplayName": "ReadExcel_Wpf",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
